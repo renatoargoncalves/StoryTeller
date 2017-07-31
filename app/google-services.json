@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "21041020473",
+    "firebase_url": "https://ingles-para-viagem.firebaseio.com",
+    "project_id": "ingles-para-viagem",
+    "storage_bucket": "ingles-para-viagem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21041020473:android:97f84b9554a0f7ba",
+        "android_client_info": {
+          "package_name": "com.sow.inglesparaviagem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21041020473-v9uk1hu3ot69jhgc1as81nlb3i11c3af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8OBMICzPMrh9wanbqT52yTrjRf2HetJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21041020473:android:aff8a93a6e4a1825",
+        "android_client_info": {
+          "package_name": "br.com.realtest.storyteller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21041020473-ioqkso74jss63dva0arol2levlu501sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.realtest.storyteller",
+            "certificate_hash": "332ff446321e538a8009f3ede12ee0b77606fd44"
+          }
+        },
+        {
+          "client_id": "21041020473-v9uk1hu3ot69jhgc1as81nlb3i11c3af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8OBMICzPMrh9wanbqT52yTrjRf2HetJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21041020473-v9uk1hu3ot69jhgc1as81nlb3i11c3af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
